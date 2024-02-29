@@ -16,11 +16,10 @@ class MyApp extends StatelessWidget {
         //colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurpleAccent),
         useMaterial3: true,
       ),
-      home: const SplashScreen(title: 'Flutter Demo Home Page'),
+      home: const SplashScreen(),
     );
   }
 }
-
 
 
 
