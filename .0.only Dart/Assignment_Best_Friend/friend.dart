@@ -1,8 +1,8 @@
 class friend {
   String? name, age,faculty,id_number,registration_number,hometown,height,weight;
 
-  friend(String name, String age,String faculty,String id_number,String registration_number,String hometown,
-         String height,String weight) {
+  friend(String name, String age,String faculty,String id_number,String registration_number,
+         String hometown,String height,String weight) {
     this.name = name;
     this.age = age;
     this.faculty=faculty;

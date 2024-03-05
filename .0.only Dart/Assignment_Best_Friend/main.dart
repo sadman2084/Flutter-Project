@@ -21,4 +21,5 @@ void main() {
 
   friend Best_friend = new friend(name!, age!,faculty!,id_number!,registration_number!,hometown!,height!,weight!);
   Best_friend.display();
+  //
 }
