@@ -9,9 +9,8 @@ This repository serves as a collection of Flutter applications and projects, sho
 ## Projects
 Below is a list of projects available in this repository:
 
-1. [Project Name 1](link_to_project_1): Brief description of the project.
-2. [Project Name 2](link_to_project_2): Brief description of the project.
-3. [Project Name 3](link_to_project_3): Brief description of the project.
+1. [Calculator]([link_to_project_1](https://github.com/sadman2084/Flutter-Project/tree/main/calculator)): Brief description of the project.
+
    .
    .
    .
